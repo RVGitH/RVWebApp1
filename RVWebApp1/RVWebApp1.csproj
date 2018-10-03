@@ -168,6 +168,8 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Properties\PublishProfiles\RVWebApp - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\RVWebApp-staging1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\RVWebApp-staging2 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
